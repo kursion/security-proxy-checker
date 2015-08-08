@@ -1,0 +1,3 @@
+[submodule "py_console"]
+	path = py_console
+	url = git@github.com:kursion/py_console.git
